@@ -1,4 +1,4 @@
-# Exercise_session_DD_WS_Milano
+# First exercise session 
 
 This repository contains Matlab scripts for the first exercise session of the Winter school on Advanced Domain Decomposition methods
 organized by Gabriele Ciaramella at Politecnico di Milano, 24-26 November 2021.
