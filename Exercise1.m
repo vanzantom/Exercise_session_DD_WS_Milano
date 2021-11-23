@@ -41,7 +41,7 @@ for i=1:maxiter                                                            % sta
 end
 
 
-%=== Verify convergence rate
+%=== Verify convergence factor
 % figure(2)
 % semilogy(iters,errorvet)                                                   % plot error
 % hold on

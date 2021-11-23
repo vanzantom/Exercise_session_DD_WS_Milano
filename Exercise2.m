@@ -42,7 +42,7 @@ end
 end
 
 
-%=== Verify convergence rate
+%=== Verify convergence factor
 % figure(2)
 % semilogy(iters,errorvet)
 % hold on;

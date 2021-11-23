@@ -50,7 +50,7 @@ for i=1:maxiter
    end
 end
 
-% %=== Verify convergence rate
+% %=== Verify convergence factor
 % figure(2)                                                                  % plot
 % semilogy(iters,errorvet)
 % hold on
