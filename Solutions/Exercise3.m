@@ -1,5 +1,5 @@
 %=============================================
-% Exercise 2: in this exercise, we implement a parallel optimized Schwarz method for
+% Exercise 3: in this exercise, we implement a parallel optimized Schwarz method for
 % the solution of a PDE described in the file room_data.
 %=============================================
 
